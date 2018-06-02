@@ -1,0 +1,11 @@
+{
+  "name": "css-size-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
